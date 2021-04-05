@@ -11,7 +11,6 @@ router.get('/', (req, res) => {
 });
 router.get('/exercise', (req, res) => {
   try {
-
     res.sendFile(path.join(__dirname, "../public/exercise.html"))
   }
   catch (error) {
