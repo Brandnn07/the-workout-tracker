@@ -13,6 +13,9 @@ _______________________________
 
 This app allows you to keep track of all of your workouts! You are able to add exercises and keep track of them. If you click on the dashboard, you're able to see all of your stats for the week!
 
+![alt text](assets/Screenshot1.png)
+
+![alt text](assets/Screenshot2.png)
 ## Installation 
 _______________________________
 
