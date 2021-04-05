@@ -20,6 +20,7 @@ This app allows you to keep track of all of your workouts! You are able to add e
 _______________________________
 
 Click on the heroku link or click on the green code button and download this app!
+https://fast-ravine-40919.herokuapp.com/
 
 ## Usage
 _______________________________
